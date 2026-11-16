@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow to access location</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please allow to take photo</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Please allow access to photo library</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>INIntentsSupported</key>
+	<array>
+		<string>Intent</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Fonts/Caveat-VariableFont_wght.ttf</string>
+	</array>
+</dict>
+</plist>
